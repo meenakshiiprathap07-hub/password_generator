@@ -1,6 +1,7 @@
 🔒 Password Generator
 
-📌 Description
+📌#Description
+
 This Python program generates a random password using letters, numbers, and symbols based on user input length.
 ⚙️ Features
 
